@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=paciente
+comment0.text=\r\n\ paciente\ //\ triagem.\r\n\r\n\ @author\ (Izabel)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=paciente()
+comment2.params=peso\ altura
+comment2.target=java.lang.String\ calcularIMC(double,\ double)
+comment3.params=PAD\ PAS
+comment3.target=java.lang.String\ classificarPressaoArterial(double,\ double)
+numComments=4
